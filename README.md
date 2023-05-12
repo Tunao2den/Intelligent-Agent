@@ -1,7 +1,7 @@
 # Intelligent-Agent
 This project aims to determine the optimal path from an arbitrary initial city to a goal city.
 
-##Map
+## Map
 ![Map](https://raw.githubusercontent.com/Tunao2den/Intelligent-Agent/main/images/romaniamap.png)
 
 You can check out the path costs from this map.
@@ -11,7 +11,7 @@ Firstly clone the repository.
 ```
 git clone https://github.com/Tunao2den/kodluyoruzilkrepo.git
 ```
-##Sample Output
+## Sample Output
 ```
 The number of searched nodes is : 17
 
