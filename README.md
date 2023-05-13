@@ -9,7 +9,7 @@ Breadth-First Search, Uniform-Cost Search, Depth-First Search, Greedy Search, A*
 You can check out the path costs from this map.
 
 ## Sample Output
-The sample output for going Bucharest from Arad by using Greeedy search algorithm.
+The sample output for going Bucharest from Arad by using Greedy search algorithm.
 ```
 The number of searched nodes is : 8
 
