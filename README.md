@@ -33,7 +33,7 @@ Arad
 ## Installation
 Firstly clone the repository.
 ```
-git clone https://github.com/Tunao2den/kodluyoruzilkrepo.git
+git clone https://github.com/Tunao2den/Intelligent-Agent.git
 ```
 
 ## Licence
