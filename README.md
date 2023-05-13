@@ -36,5 +36,5 @@ Firstly clone the repository.
 git clone https://github.com/Tunao2den/Intelligent-Agent.git
 ```
 
-## Licence
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
